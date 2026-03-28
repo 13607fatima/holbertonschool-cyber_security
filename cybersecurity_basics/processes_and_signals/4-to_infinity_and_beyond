@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# display infinity..
 while true 
 do
     echo "To infinity and beyond"
